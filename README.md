@@ -2,18 +2,18 @@
 
 # Carlos Palmero Hinojosa
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=760&height=72&lines=Native+iOS+%26+Android+apps;React+Native+at+scale;Full-stack+TypeScript;On-device+AI+%26+RAG;15+years+shipping+software" alt="Native iOS and Android apps · React Native at scale · Full-stack TypeScript · On-device AI and RAG · 15 years shipping software" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=760&height=72&lines=Native+iOS+%26+Android+apps;React+Native+at+scale;Full-stack+TypeScript;On-device+AI+%26+RAG;16+years+shipping+software" alt="Native iOS and Android apps · React Native at scale · Full-stack TypeScript · On-device AI and RAG · 16 years shipping software" />
 
 <p>
   <img src="https://img.shields.io/badge/Mexico-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Mexico" />
-  <img src="https://img.shields.io/badge/15%20yrs%20in%20software-1F2937?style=for-the-badge" alt="15 years in software" />
-  <img src="https://img.shields.io/badge/7%20yrs%20React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="7 years React Native" />
+  <img src="https://img.shields.io/badge/16%20yrs%20in%20software-1F2937?style=for-the-badge" alt="16 years in software" />
+  <img src="https://img.shields.io/badge/8%20yrs%20React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="8 years React Native" />
   <img src="https://img.shields.io/badge/English%20B2%2FC1-2563EB?style=for-the-badge" alt="English B2/C1" />
 </p>
 
 </div>
 
-Hi, I'm Carlos, a mobile & full-stack engineer from Mexico. Fifteen years building software, seven of them deep in React Native, and I still love the language (`JS <3`).
+Hi, I'm Carlos, a mobile & full-stack engineer from Mexico. Sixteen years building software, eight of them deep in React Native, and I still love the language (`JS <3`).
 
 I build **native iOS & Android apps**, cross-platform apps with **React Native**, full-stack backends, on-device AI, and developer tools. Often the whole thing, on my own.
 
