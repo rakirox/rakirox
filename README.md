@@ -126,21 +126,6 @@ A few projects I've shipped end-to-end. All real work.
 **Restaurant Management Platform** · *flagship, commercial*
 A multi-tenant restaurant & POS SaaS I built **solo, end to end**: a 17-package TypeScript monorepo (~185k LOC in about a year). Node/PostgreSQL backend, a React Native app, real-time orders over Socket.IO, WhatsApp notifications, inventory & finance modules, an AI assistant, and a Chromecast order display.
 
-**Personal Health App (on-device AI)** · *personal*
-A privacy-first health app where the AI runs **on the device** (RAG + medical transcription), with native HealthKit / Health Connect and ~19 feature modules: labs, medications, vitals, appointments and more.
-
-**AI Game-Asset Generator** · *personal*
-Turns AI prompts into pixel-art sprite sheets with Godot export. Ships as a **native macOS app** plus a Python CLI.
-
-**University Enrollment Platform** · *private*
-An enrollment SaaS for students, curriculum and payments: Next.js + Node API + PostgreSQL, packaged with Docker for on-premise use.
-
-**WhatsApp CRM / Lead-Qualification System** · *personal*
-A conversational CRM: a WhatsApp bot with lead scoring and automations. Express + TypeORM backend, Next.js admin.
-
-**VS Code Emulator Extension** · *dev tooling*
-A VS Code extension that puts Android emulators right inside editor panels for React Native / Expo work.
-
 **Games & low-level tinkering** · *personal*
 Small games in Godot (GDScript) and Unity (C#), plus low-level tooling in Rust.
 
