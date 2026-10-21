@@ -135,13 +135,13 @@ Small games in Godot (GDScript) and Unity (C#), plus low-level tooling in Rust.
 
 | Where | What I did |
 | :-- | :-- |
-| **GlobalLogic** *(current)* | Building **native iOS & Android apps**. Earlier, a white-label **banking app** in React Native with device-securing & remote data-wipe. |
-| **Digital@Femsa / Spin** *(OXXO)* | Worked on a loyalty + retail app portfolio serving **11M+ active users**: shared component & checkout-funnel libraries, native SalesForce SDK integration, and Appium E2E across several apps. |
-| **Reservamos** *(2018-2020)* | **Led** the native to React Native rebuild and managed a small team. Shipped to both stores (**200k+ Android downloads**); the architecture was reused for a sister app that **reached 1M downloads**. |
+| **GlobalLogic** *(current)* | Building **native iOS & Android apps** for a shared-device management platform in healthcare. Earlier, a white-label **banking app** in React Native. |
+| **Digital@Femsa / Spin** *(OXXO)* | Worked on a loyalty + retail app portfolio, including a loyalty app with **10M+ downloads** on Google Play: shared component & checkout-funnel libraries, native Salesforce SDK integration, and Appium E2E across several apps. |
+| **Reservamos** *(2018-2020)* | **Led** the native to React Native rebuild and managed a small team. Shipped to both stores (**100K+ downloads** on Google Play), and delivered white-label apps for bus operators, one with **1M+ downloads**. |
 | **Wizeline · Clevertech / Lumenalta · Codelitt** | Full-stack & mobile engineering across product teams. |
 | **Workshops** | Taught Node, React, React Native, Android and Angular. |
 
-**Domains I've worked in:** fintech & banking, payments & checkout, e-commerce, retail at scale, health, social apps, legal, and developer tooling.
+**Domains I've worked in:** fintech & banking, payments & checkout, e-commerce, retail at scale, health, social apps, and developer tooling.
 
 ---
 
@@ -152,7 +152,7 @@ Small games in Godot (GDScript) and Unity (C#), plus low-level tooling in Rust.
 <a href="mailto:palmeroh@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/carlos-palmero-hinojosa-1a3bba46">
+<a href="https://www.linkedin.com/in/carlos-palmero">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
